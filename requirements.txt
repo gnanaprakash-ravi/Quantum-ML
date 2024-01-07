@@ -3,3 +3,5 @@ matplotlib
 ipykernel
 qiskit
 scikit-learn
+pylatexenc
+qiskit-machine-learning
